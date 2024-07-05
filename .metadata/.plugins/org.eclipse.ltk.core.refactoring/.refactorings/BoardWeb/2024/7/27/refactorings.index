@@ -1,0 +1,38 @@
+1719796665658	Move 'getBoard.jsp' to 'board'
+1719796667941	Move 'getBoardList.jsp' to 'board'
+1719796977593	Rename type 'InsertBoradController'
+1719799916210	Delete element
+1719799921558	Delete element
+1719799926496	Delete element
+1719799929743	Delete element
+1719799932747	Delete element
+1719800060321	Move 'getBoard.jsp' to 'WEB-INF'
+1719800062800	Move 'getBoardList.jsp' to 'WEB-INF'
+1719800081503	Move 'getBoard.jsp' to 'webapp'
+1719800083328	Move 'getBoardList.jsp' to 'webapp'
+1719800241869	Move 'getBoard.jsp' to 'board'
+1719800243989	Move 'getBoardList.jsp' to 'board'
+1719800445526	Rename type 'UserVo'
+1719801393940	Move 'getBoardList.jsp' to 'webapp'
+1719801395998	Move 'getBoard.jsp' to 'webapp'
+1719801406188	Delete element
+1719803926571	Move file
+1719807129046	Delete elements
+1719906060042	Move 'applicationContext.xml' to 'WEB-INF'
+1719906078966	Move 'applicationContext.xml' to 'resources'
+1719906083623	Copy file
+1719906141714	Delete element
+1719906331848	Copy file
+1719906370840	Delete element
+1719906452724	Copy file
+1719906554953	Delete element
+1719906778863	Copy file
+1719906792495	Delete element
+1719907486617	Copy file
+1719907823221	Delete element
+1719907866843	Copy file
+1719908009421	Delete element
+1719908745137	Copy file
+1719908860688	Delete element
+1719909214406	Copy file
+1719909499915	Delete element
